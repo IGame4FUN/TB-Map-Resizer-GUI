@@ -1,1 +1,1 @@
-# TB-Map-Resizer-GUI-
+# TB-Map-Resizer-GUI
